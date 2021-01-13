@@ -1,1 +1,2 @@
-# Class35structuringCode
+# synchronousBallMovement
+Ball moving synchronously
